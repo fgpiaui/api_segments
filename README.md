@@ -163,4 +163,4 @@
     **Classe que serve para atualizar um objeto específico. Qualquer objeto será atualizado da mes**
 9. Tests
     - **Aqui possui todos os testes, tanto unitários, quanto integrais. Os testes de views são integrais e pegam desde a entrada dos dados até a resposta da aplicação.**
-    - **Temos também uma pasta que cria um cenário de teste (no caso dessa aplicação foi usado 500 usuarios e 15 tags). Os usuarios foram criados usando a bilioteca Faker do django. Foi usado um singleton para que todo o cenario de teste base seja o mesmo usado para os demais cenários de teste base, inclusive os de integração.
+    - **Temos também uma pasta que cria um cenário de teste (no caso dessa aplicação foi usado 500 usuarios e 15 tags). Os usuarios foram criados usando a bilioteca Faker do django. Foi usado um singleton para que todo o cenario de teste base seja o mesmo usado para os demais cenários de teste base, inclusive os de integração.**
