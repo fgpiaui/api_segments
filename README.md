@@ -7,6 +7,7 @@
    - No Terminal: https://docs.python.org/3/library/venv.html
 4. Rode pip install -r setup/requirements.txt no terminal, dentro do diretório do projeto
 5. Verifique se a instalação ocorreu corretamente executando no terminal python manage.py runserver
+6. Rode python manage.py migrate para realizar o migrate na base (ele criará o sqlite3)
 
 ### Estrutura de Dados
 **Para execução dos endpoints fez-se necessário a definição de estrutura de dados para o carregamento deles.**
